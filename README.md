@@ -1,5 +1,5 @@
 # IntegersList
-2Să se dezvolte un modul pentru operații cu liste de numere întregi. Funcția
+Să se dezvolte un modul pentru operații cu liste de numere întregi. Funcția
 principală (main) va utiliza acest modul, afisând un meniu pentru efectuarea
 următoarelor operații: adăugarea unui element în lista, ștergerea unui element
 din listă, eliminarea din listă a elementelor care au valoarea mai mică decât o
